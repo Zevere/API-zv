@@ -1,0 +1,9 @@
+{
+  "db": {
+    "host": "mongo",
+    "port": 27017,
+    "database": "zv",
+    "name": "db",
+    "connector": "mongodb"
+  }
+}
